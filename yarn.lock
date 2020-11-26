@@ -2059,10 +2059,10 @@
   dependencies:
     jsrsasign "8.0.20"
 
-"@wireapp/commons@3.8.9":
-  version "3.8.9"
-  resolved "https://registry.npmjs.org/@wireapp/commons/-/commons-3.8.9.tgz#52cf598b2a05c325d101ac56881cdcc7ec7503e8"
-  integrity sha512-aMoh8AHVobGvURuTgHwOmxeJ/UiK4cNu1LePPmLLnVY5dBn2zu7Y+gk3r9koWLZCPQ9AQbpPLzquVxn5WZwzjQ==
+"@wireapp/commons@3.8.14":
+  version "3.8.14"
+  resolved "https://registry.npmjs.org/@wireapp/commons/-/commons-3.8.14.tgz#76c1856044b8c938aff7ee4de8e6cbc8254df6da"
+  integrity sha512-R61YfKrUcgFoJs/1g8ukNSIP+bAQAU7s0LVoL4XXdB5n+BcRlTWKogavAJ9ISgmFKwomTBsXLnlmsL6+DmGfTw==
   dependencies:
     "@types/fs-extra" "8.1.0"
     "@types/node" "~12"
