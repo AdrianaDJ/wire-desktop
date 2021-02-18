@@ -2164,10 +2164,10 @@ acorn@^8.0.4:
   resolved "https://registry.npmjs.org/acorn/-/acorn-8.0.4.tgz#7a3ae4191466a6984eee0fe3407a4f3aa9db8354"
   integrity sha512-XNP0PqF1XD19ZlLKvB7cMmnZswW4C/03pRHgirB30uSJTaS3A3V1/P4sS3HPvFmjoriPCJQs+JDSbm4bL1TxGQ==
 
-adm-zip@0.4.16:
-  version "0.4.16"
-  resolved "https://registry.npmjs.org/adm-zip/-/adm-zip-0.4.16.tgz#cf4c508fdffab02c269cbc7f471a875f05570365"
-  integrity sha512-TFi4HBKSGfIKsK5YCkKaaFG2m4PEDyViZmEwof3MTIgzimHLto6muaHVpbrljdIvIrFZzEq/p4nafOeLcYegrg==
+adm-zip@0.5.3:
+  version "0.5.3"
+  resolved "https://registry.npmjs.org/adm-zip/-/adm-zip-0.5.3.tgz#f5ac6b2507f4418e2691c0feb6f130b4b90d7643"
+  integrity sha512-zsoTXEwRNCxBzRHLENFLuecCcwzzXiEhWo1r3GP68iwi8Q/hW2RrqgeY1nfJ/AhNQNWnZq/4v0TbfMsUkI+TYw==
 
 aggregate-error@^3.0.0:
   version "3.0.1"
