@@ -1581,10 +1581,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/fs-extra@9.0.2":
-  version "9.0.2"
-  resolved "https://registry.npmjs.org/@types/fs-extra/-/fs-extra-9.0.2.tgz#e1e1b578c48e8d08ae7fc36e552b94c6f4621609"
-  integrity sha512-jp0RI6xfZpi5JL8v7WQwpBEQTq63RqW2kxwTZt+m27LcJqQdPVU1yGnT1ZI4EtCDynQQJtIGyQahkiCGCS7e+A==
+"@types/fs-extra@9.0.9":
+  version "9.0.9"
+  resolved "https://registry.npmjs.org/@types/fs-extra/-/fs-extra-9.0.9.tgz#11ed43b3f3c6b3490f1ef9bd17f58da896e2d861"
+  integrity sha512-5TqDycCl0oMzwzd1cIjSJWMKMvLCDVErle4ZTjU4EmHDURR/+yZghe6GDHMCpHtcVfq0x0gMoOM546/5TbYHrg==
   dependencies:
     "@types/node" "*"
 
