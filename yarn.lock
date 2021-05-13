@@ -2052,12 +2052,12 @@
   resolved "https://registry.npmjs.org/@webpack-cli/serve/-/serve-1.0.1.tgz#28abe7dcb18224ccd4b4e2d37f70e5be66c3d6a9"
   integrity sha512-WGMaTMTK6NOe29Hw1WBEok9vGLfKg5C6jWzNOS/6HH1YadR+RL+TRWRcSyc81Dzulljhk/Ree9mrDM4Np9GGOQ==
 
-"@wireapp/certificate-check@0.1.12":
-  version "0.1.12"
-  resolved "https://registry.npmjs.org/@wireapp/certificate-check/-/certificate-check-0.1.12.tgz#6d973a2453a054267d1ab95280900e5dea0ba35d"
-  integrity sha512-kNfMJmO9jR1DQjENF1AIsBPtBx7/QLLVlF1y7Fm0hRsiegimxEtLaxzDyKHdSC6eSDqHVxUIIFTc57VnXzauTw==
+"@wireapp/certificate-check@0.4.0":
+  version "0.4.0"
+  resolved "https://registry.npmjs.org/@wireapp/certificate-check/-/certificate-check-0.4.0.tgz#74e2b0cbe970e093f705e8b6c2d7c1191143833f"
+  integrity sha512-A3ZlLB+QHP8lF2yMndnznYzg4bvF83hSq4+lRJdzbhxOUOCb0taFYlI+HvnHiO4G8E/6iixUs5yDX/4tHlUwcw==
   dependencies:
-    jsrsasign "8.0.20"
+    jsrsasign "10.2.0"
 
 "@wireapp/commons@3.8.9":
   version "3.8.9"
@@ -6787,10 +6787,10 @@ jsprim@^1.2.2:
     json-schema "0.2.3"
     verror "1.10.0"
 
-jsrsasign@8.0.20:
-  version "8.0.20"
-  resolved "https://registry.npmjs.org/jsrsasign/-/jsrsasign-8.0.20.tgz#37d8029c9d8f794d8ac8d8998bce319921491f11"
-  integrity sha512-JTXt9+nqdynIB8wFsS6e8ffHhIjilhywXwdaEVHSj9OVmwldG2H0EoCqkQ+KXkm2tVqREfH/HEmklY4k1/6Rcg==
+jsrsasign@10.2.0:
+  version "10.2.0"
+  resolved "https://registry.npmjs.org/jsrsasign/-/jsrsasign-10.2.0.tgz#960ab8046d19d3fcbb584368a57d1977cb0b7ffd"
+  integrity sha512-khMrV/10U02DRzmXhjuLQjddUF39GHndaJZ/3YiiKkbyEl1T5M6EQF9nQUq0DFVCHusmd/jl8TWl4mWt+1L5hg==
 
 "jsx-ast-utils@^2.4.1 || ^3.0.0":
   version "3.0.0"
